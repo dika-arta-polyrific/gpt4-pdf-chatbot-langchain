@@ -276,7 +276,7 @@ export default function Home() {
                     ref={textAreaRef}
                     autoFocus={false}
                     rows={1}
-                    maxLength={512}
+                    maxLength={5120}
                     id="userInput"
                     name="userInput"
                     placeholder={
